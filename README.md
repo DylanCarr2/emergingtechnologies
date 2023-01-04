@@ -1,6 +1,6 @@
 # Emerging Technologies - Dylan Carr
 
-JupyterLite instance deployed as a static site to GitHub Pages, for hosting Emerging Technologies notebooks.
+JupyterLite instance deployed as a static site to GitHub Pages, for hosting Emerging Technologies notebooks. Demo config has been tweaked to build from the "Notebooks" folder of the repository on every commit to the main branch.
 
 
 ➡️ **https://dylancarr2.github.io/emergingtechnologies**
